@@ -15,4 +15,4 @@ A simple social links profile page. The page showcases a user's profile picture,
 
 ### Preview
 
-![Preview Image](preview.png)
+![Preview Image](/design/preview.png)
